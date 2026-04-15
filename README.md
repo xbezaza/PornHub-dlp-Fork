@@ -25,7 +25,7 @@
 📥 Установка и использование
 
 Вариант 1: Исполняемый файл Windows (Рекомендуется)
-1. Скачайте последний релиз `.exe` из раздела [Releases](https://github.com/xBezaza/PornHub-dlp/releases).
+1. Скачайте последний релиз `.exe` из раздела [Releases](https://github.com/xBezaza/PornHub-dlp-Fork/releases).
 2. Распакуйте архив в любую папку.
 3. **(Важно)** Для скачивания защищенных видео положите файл `cookies.txt` в ту же папку, где лежит `.exe`.
    - *Как получить cookies:* Используйте расширение браузера [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc).
