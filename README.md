@@ -37,7 +37,7 @@
 
 1. Клонируйте репозиторий:
 
-git clone https://github.com/xBezaza/PornHub-dlp.git
+git clone https://github.com/xBezaza/PornHub-dlp-Fork.git
 cd PornHub-dlp
 
 2. Создайте виртуальное окружение:
