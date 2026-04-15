@@ -1,0 +1,30 @@
+# Python cache and virtual enviroment.
+__pycache__
+.venv
+# Build data.
+Build/Windows/Release
+pornhub-dlp.spec
+# Downloaded videos and it's data.
+Downloads.ytdl
+Downloads
+# Advertisement animation file.
+Advertisement.gif
+# Libs.
+yt-dlp
+# Enviroment variables.
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+Downloads/
+logs/
+yt-dlp/
+ffmpeg.exe
+ffprobe.exe
+cookies.txt
+Advertisement.gif
+dist/
+build/
+*.spec

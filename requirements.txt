@@ -1,0 +1,5 @@
+pyinstaller; sys_platform=="win32"
+pyperclip
+python-dotenv
+dublib>=0.15.3
+pyqt6>=6.4.0

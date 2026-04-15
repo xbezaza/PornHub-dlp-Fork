@@ -1,0 +1,16 @@
+{
+    "sorting": false,
+    "directory": "",
+    "quality": 2,
+    "advertisement": "",
+    "cookies_path": "cookies.txt",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "sleep_interval": 5,
+    "language": "en",
+    "fork_author": "NurbiSQD",
+    "contacts": {
+        "discord": "Dagur#0162",
+        "telegram": "https://t.me/DARGUS_Contact",
+        "email": "triste.emperor472@slmails.com"
+    }
+}
